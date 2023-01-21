@@ -1,1 +1,1 @@
-# GATE_Made_Easy_Notes_Handmade
+# GATE_Handmade_Notes
